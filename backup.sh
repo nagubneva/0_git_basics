@@ -1,1 +1,1 @@
-mkdir backup
+mkdir backup # Создается папка backup
